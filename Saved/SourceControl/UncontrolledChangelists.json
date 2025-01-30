@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealProjects/FightSoulsLike/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_B.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_BL.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_BR.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_F.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_FL.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_FR.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_LL.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_LR.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Movement/M_Neutral_Run_Loop_RL.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Movement/M_Neutral_Stand_Idle_Loop.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Movement/BS_StraifMovement.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
