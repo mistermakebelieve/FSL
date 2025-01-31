@@ -27,7 +27,10 @@
 				"C:/UnrealProjects/FightSoulsLike/Content/UI/WB_TargetLock.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/Blueprints/BP_TargetLockWidget.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/2K/050XNV0WGVB3IWIHF128DN.uasset",
-				"C:/UnrealProjects/FightSoulsLike/Content/UI/Icons/Target_Lock.uasset"
+				"C:/UnrealProjects/FightSoulsLike/Content/UI/Icons/Target_Lock.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/SwordAttackCombo.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/SwordAttackCombo_Montage.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/ThirdPerson/Input/Actions/IA_SwordAttack.uasset"
 			]
 		}
 	]
