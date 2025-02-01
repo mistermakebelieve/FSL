@@ -30,7 +30,16 @@
 				"C:/UnrealProjects/FightSoulsLike/Content/UI/Icons/Target_Lock.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/SwordAttackCombo.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/SwordAttackCombo_Montage.uasset",
-				"C:/UnrealProjects/FightSoulsLike/Content/ThirdPerson/Input/Actions/IA_SwordAttack.uasset"
+				"C:/UnrealProjects/FightSoulsLike/Content/ThirdPerson/Input/Actions/IA_SwordAttack.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Fab/Megascans/3D/Dagger_uiopbbdfa/High/SM_uiopbbdfa_tier_1.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Blueprints/BPI_Damage.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Blueprints/BP_Notify_Damage.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Fab/Megascans/3D/Dagger_uiopbbdfa/High/MI_uiopbbdfa.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Fab/Megascans/3D/Dagger_uiopbbdfa/High/T_uiopbbdfa_4k_B.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Fab/Megascans/3D/Dagger_uiopbbdfa/High/T_uiopbbdfa_4k_H.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Fab/Megascans/3D/Dagger_uiopbbdfa/High/T_uiopbbdfa_4k_N.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Fab/Megascans/3D/Dagger_uiopbbdfa/High/T_uiopbbdfa_4k_ORM.uasset"
 			]
 		}
 	]
