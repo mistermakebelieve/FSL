@@ -46,7 +46,18 @@
 				"C:/UnrealProjects/FightSoulsLike/Content/UI/WB_PlayerHealth.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/UI/WB_Hud.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/UI/WB_EnemyHealth.uasset",
-				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/HitReact_Montage.uasset"
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/HitReact_Montage.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_B.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_F.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_L.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_R.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_B_Montage.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_F_Montage.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_L_Montage.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_R_Montage.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/ThirdPerson/Input/Actions/IA_Dodge.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_FBackUp.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Blueprints/E_MovementDIrection.uasset"
 			]
 		}
 	]
