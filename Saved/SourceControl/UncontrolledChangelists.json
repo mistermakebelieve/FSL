@@ -56,8 +56,16 @@
 				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_L_Montage.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_R_Montage.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/ThirdPerson/Input/Actions/IA_Dodge.uasset",
-				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_FBackUp.uasset",
-				"C:/UnrealProjects/FightSoulsLike/Content/Blueprints/E_MovementDIrection.uasset"
+				"C:/UnrealProjects/FightSoulsLike/Content/Blueprints/E_MovementDIrection.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/AI/BD_AI.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/AI/BT_Enemy.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/AI/BP_AI_Enemy.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/AI/BP_Enemy.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/AI/Tasks/Task_ChaseTarget.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7T/1KL9PI41U8JJAIVKZNNG5G.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/NP/73DXW3JSUNHNIU715RS7ET.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/KJ/GHSH71827ZCRX8DD2J9NLJ.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_FBackUp.uasset"
 			]
 		}
 	]
