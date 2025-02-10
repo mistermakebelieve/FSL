@@ -68,6 +68,7 @@
 				"C:/UnrealProjects/FightSoulsLike/Content/AI/Tasks/Task_SwordAttack.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/AI/BPI_Enemy.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/AI/ABP_Enemy.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Blueprints/BP_EnemySpawner.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_FBackUp.uasset"
 			]
 		}
