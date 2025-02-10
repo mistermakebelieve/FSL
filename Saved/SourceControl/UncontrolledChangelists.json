@@ -65,6 +65,9 @@
 				"C:/UnrealProjects/FightSoulsLike/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/7T/1KL9PI41U8JJAIVKZNNG5G.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/NP/73DXW3JSUNHNIU715RS7ET.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/KJ/GHSH71827ZCRX8DD2J9NLJ.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/AI/Tasks/Task_SwordAttack.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/AI/BPI_Enemy.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/AI/ABP_Enemy.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_FBackUp.uasset"
 			]
 		}
