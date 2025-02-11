@@ -69,6 +69,12 @@
 				"C:/UnrealProjects/FightSoulsLike/Content/AI/BPI_Enemy.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/AI/ABP_Enemy.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/Blueprints/BP_EnemySpawner.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Blueprints/E_Difficulty.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/Blueprints/E_ListofEnemies.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/AI/Struct_EnemyList.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/AI/DT_EnemyList.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/AI/BP_Sword00.uasset",
+				"C:/UnrealProjects/FightSoulsLike/Content/AI/BP_Sword01.uasset",
 				"C:/UnrealProjects/FightSoulsLike/Content/Characters/Souls/Combat/Dodge/Dodge_FBackUp.uasset"
 			]
 		}
